@@ -2,7 +2,8 @@
 
 **Mobile Software Engineer (Flutter) & Data Scientist** 📱💻  
 🎓 *Bachelor’s in Computing and Data Science, Alexandria University (CGPA: 3.5308/4.0000)*  
-🗓️ *Graduation: July 2025*  
+🗓️ *Graduation: July 2025* 
+📌 *Open to freelance & remote opportunities*
 
 ---
 
@@ -32,11 +33,23 @@
 
 🛠️ **Technical Skills**  
 
-- **Languages & Frameworks**: Dart, Flutter, Python, Java, Kotlin (basics), SQL  
-- **State Management**: BLoC, GetX  
-- **Backend & APIs**: Firebase (Auth, Firestore, Storage), RESTful APIs  
-- **Visualization & Data Science**: Power BI, Pandas, Scikit-learn, Seaborn, Matplotlib   
+**Programming Languages & Frameworks**  
+- Dart, Python, Java, Kotlin (basic), SQL  
+- Flutter (cross-platform mobile development)  
+- Scikit-learn, Pandas (data science and machine learning)
 
+**State Management (Flutter)**  
+- BLoC  
+- GetX
+
+**Backend & APIs**  
+- Firebase (Authentication, Firestore, Storage)  
+- RESTful API integration
+
+**Data Analysis & Visualization**  
+- Power BI (dashboards, data reports)  
+- Python visualization: Seaborn, Matplotlib
+   
 ---
 
 🌱 **Currently Learning**  
@@ -49,9 +62,9 @@
 
 📫 **Contact Me**  
 
-- [LinkedIn](https://www.linkedin.com/in/amr-elsayed-ae24203)  
-- [GitHub](https://github.com/AAMMMRRR)  
-- [Email](mailto:amre6470@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elsayed-ae24203)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AAMMMRRR)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amre6470@gmail.com) 
 
 ---
 
