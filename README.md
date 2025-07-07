@@ -2,7 +2,7 @@
 
 **Mobile Software Engineer (Flutter) & Data Scientist** 📱💻  
 🎓 *Bachelor’s in Computing and Data Science, Alexandria University (CGPA: 3.5308/4.0000)*  
-🗓️ *Graduation: July 2025* 
+🗓️ *Graduation: July 2025*  
 📌 *Open to freelance & remote opportunities*
 
 ---
