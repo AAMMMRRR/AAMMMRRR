@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Amr Elsayed
 
 **Mobile Software Engineer (Flutter) & Data Scientist** 📱💻  
-🎓 *Bachelor’s in Computing and Data Science, Alexandria University (CGPA: 3.5308/4.0000)*  
+🎓 *Bachelor’s in Computing and Data Science, Alexandria University (CGPA: 3.53/4.00)*  
 🗓️ *Graduation: July 2025*  
 📌 *Open to freelance & remote opportunities*
 
